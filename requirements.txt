@@ -1,0 +1,5 @@
+pandas==1.2.4
+pywin32==301
+openpyxl==3.0.7
+PyYAML==5.4.1
+from gooey import Gooey, GooeyParser
